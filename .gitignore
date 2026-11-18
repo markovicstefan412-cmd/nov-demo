@@ -1,0 +1,7 @@
+# Repo sadrzi samo sajt. Interni fajlovi iz paketa (CLAUDE.md, docs, reference, .claude) ostaju lokalno.
+/*
+!/index.html
+!/assets/
+!/README.md
+!/.nojekyll
+!/.gitignore
